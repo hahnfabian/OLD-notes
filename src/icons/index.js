@@ -1,0 +1,9 @@
+export const threeDots = require("./three-dots.png");
+export const star = require("./star.png");
+export const clock = require("./uhr.png");
+export const comment = require("./comment.png");
+export const magnfyingGlass = require("./search.png");
+export const building = require("./building.png");
+export const settings = require("./settings.png");
+export const plus = require("./plus.png");
+export const doubleRight = require("./double-right.png");
