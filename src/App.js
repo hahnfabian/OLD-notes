@@ -52,6 +52,7 @@ function App() {
                   <img src={clock} alt="Clock" ></img>
                   <span>Updates</span>
                 </div>
+                
                 <div className='menu-list'>
                   <img src={building} alt="Building" ></img>
                   <span>All teamspaces</span>
